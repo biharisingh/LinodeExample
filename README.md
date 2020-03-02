@@ -23,7 +23,7 @@ emacs
 
 You should now be greeted with this screen:
 
-![Alt text](emacs.png "Title")
+![emacs home screen](emacs.png "homescreen")
 
 
 
@@ -53,6 +53,8 @@ Emacs uses:
 ```C x C f```
 
 which reflects the changes in _minibuffer_ (The line at the bottom of screen)
+
+![open file](emacs_openfile.png "Open File")
 
 
 
