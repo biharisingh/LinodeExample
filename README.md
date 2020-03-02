@@ -70,7 +70,7 @@ Type and use _Tabs_ to autocomplete file names and paths.
 
 
 
-## Saving file
+### Saving file
 
 To save file:
 
@@ -83,5 +83,13 @@ To "Save As":
 it will show the prompt in _minibuffer_ to give a filename.
 
 
+### Navigation
+
+| Cursor Movement | Emacs KeyBindings  |
+|-----------------|:------------------:|
+| UP | ```C-p``` |
+| DOWN | ``` C-n ```|
+| LEFT | ```C-b``` |
+| RIGHT | ```C-n```|
 
 
