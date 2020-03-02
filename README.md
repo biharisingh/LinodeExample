@@ -93,3 +93,10 @@ it will show the prompt in _minibuffer_ to give a filename.
 | Next Letter (~RIGHT) | ```C-n```|
 
 
+
+## More Information
+
+For more information, look up 
+ - ![Emacs Manual](https://www.gnu.org/software/emacs/manual/html_node/emacs/Key-Bindings.html)
+
+
