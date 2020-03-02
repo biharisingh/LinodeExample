@@ -29,7 +29,7 @@ You should now be greeted with this screen:
 
 ## File operations and navigation
 
-Emacs keybindings are not very beginner friendly. There are starter-packs for emacs which allows one to have normal keybindings, but then that is again a personal preference. Plus, on servers, we are greeted with vanilla-emacs.
+Emacs keybindings are not very beginner friendly. There are starter-packs for emacs, which may have different key bindings or the user can customize the keybindings to one's liking. We are going to see default emacs keybindings.
 
 
 ### Keys to know
@@ -42,6 +42,18 @@ It is denoted as **C**.
 #### Meta Key
 
 Emacs, by default, takes _Alt_ to be the meta key. It is denoted by **M**.
+
+
+### Opening file
+ 
+One of the most basic and most important operations of any editor is opening file. 
+Generally, editors use _Ctrl + O_, which opens a file-selecting dialog box.
+
+Emacs uses:
+```C x C f```
+
+which reflects the changes in _minibuffer_ (The line at the bottom of screen)
+
 
 
 
