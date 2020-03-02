@@ -87,9 +87,9 @@ it will show the prompt in _minibuffer_ to give a filename.
 
 | Cursor Movement | Emacs KeyBindings  |
 |-----------------|:------------------:|
-| UP | ```C-p``` |
-| DOWN | ``` C-n ```|
-| LEFT | ```C-b``` |
-| RIGHT | ```C-n```|
+| Previous Line (~UP) | ```C-p``` |
+| Next Line (~DOWN) | ``` C-n ```|
+| Previous Letter (~LEFT) | ```C-b``` |
+| Next Letter (~RIGHT) | ```C-n```|
 
 
