@@ -54,7 +54,11 @@ Emacs uses:
 
 which reflects the changes in _minibuffer_ (The line at the bottom of screen)
 
-![open file](emacs_openfile.png "Open File")
+![open file](emacs_open_file.png "Open File")
+
+
+Type and use _Tabs_ to autocomplete file names and paths.
+
 
 
 
