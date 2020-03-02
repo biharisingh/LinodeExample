@@ -1,5 +1,5 @@
 # Linode Example
-## Created a small sample as it is a requirement for application.
+## Created a small sample.
 
 
 -----
