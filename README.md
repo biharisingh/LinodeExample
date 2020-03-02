@@ -27,6 +27,21 @@ You should now be greeted with this screen:
 
 
 
+## File operations and navigation
+
+Emacs keybindings are not very beginner friendly. There are starter-packs for emacs which allows one to have normal keybindings, but then that is again a personal preference. Plus, on servers, we are greeted with vanilla-emacs.
+
+
+### Keys to know
+
+#### Control Key
+
+Emacs makes extensive use of _Ctrl_ key. It is advised to shift _Left Ctrl_ to _Caps Lock_, so as to keep the pinky painless.
+It is denoted as **C**.
+
+#### Meta Key
+
+Emacs, by default, takes _Alt_ to be the meta key. It is denoted by **M**.
 
 
 
